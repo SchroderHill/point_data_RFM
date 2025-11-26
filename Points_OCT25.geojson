@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "Points_OCT25",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2193" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "priority": "high", "client": "mrfl", "forest": "plunkett", "date_created": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 1665946.197464130818844, 5422111.553955253213644 ] } },
+{ "type": "Feature", "properties": { "id": null, "priority": "medium", "client": "mrfl", "forest": "plunkett", "date_created": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 1666202.843297463841736, 5422489.908121919259429 ] } },
+{ "type": "Feature", "properties": { "id": null, "priority": "high", "client": "mrfl", "forest": "plunkett", "date_created": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 1666099.083191742189229, 5422213.701550606638193 ] } },
+{ "type": "Feature", "properties": { "id": null, "priority": "high", "client": "mrfl", "forest": "plunkett", "date_created": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 1666017.062358408933505, 5422462.409883940592408 ] } },
+{ "type": "Feature", "properties": { "id": 4, "priority": "high", "client": "mrfl", "forest": "plunkett", "date_created": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 1666104.374858408700675, 5422086.701550606638193 ] } },
+{ "type": "Feature", "properties": { "id": 5, "priority": "high", "client": "mrfl", "forest": "plunkett", "date_created": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 1666583.270691742189229, 5422099.930717273615301 ] } },
+{ "type": "Feature", "properties": { "id": 6, "priority": "high", "client": "mrfl", "forest": "plunkett", "date_created": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 1666620.312358408933505, 5421978.222383940592408 ] } },
+{ "type": "Feature", "properties": { "id": null, "priority": "medium", "client": "mrfl", "forest": "plunkett", "date_created": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 1666112.312358408933505, 5422978.347383940592408 ] } },
+{ "type": "Feature", "properties": { "id": null, "priority": "medium", "client": "mrfl", "forest": "plunkett", "date_created": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 1666568.981875407043844, 5422728.500420838594437 ] } }
+]
+}
